@@ -1,38 +1,24 @@
 
 ## News
-- 第二次个人作业已经发布：[ex_P02.md](https://github.com/arlionn/ds/blob/main/homework/ex_P02.md)
-  - 提交截止时间：2025 年 6 月 6 日 23:59
 
-- 第一次个人作业已经发布：[ex_P01.md](https://github.com/arlionn/ds/blob/main/homework/ex_P01.md)
-  - 提交截止时间：2025 年 5 月 23 日 23:59
+- **第二次个人作业**已经发布：以下两个作业任选其一 (当然，如果都做更好)
+  - [ex_P02.md](https://github.com/lianxhcn/ds/blob/main/homework/ex_P02.md)
+  - [ex_P03_EDA_resume.md](https://github.com/lianxhcn/ds/blob/main/homework/ex_P03_EDA_resume.md)
+  - 提交**截止时间**：2026 年 3 月 18 日 23:59
 
-- 第一次小组作业已经发布：[ex_Team01.md](https://github.com/arlionn/ds/blob/main/homework/ex_Team01.md)
-  - 提交截止时间：2025 年 5 月 29 日 23:59
+- 第一次小组作业已经发布：[ex_Team01.md](https://github.com/lianxhcn/ds/blob/main/homework/ex_Team01.md)
+  - 提交**截止时间**：2025 年 3 月 20 日 23:59
 
-! 请认真阅读下方的「**作业提交说明**」。
-
-![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
+>&#x1F353; **[点此提交作业](https://send2me.cn/JQP4AtjE/TVa8qKMHpUP3Kg)**
 
 ## 作业提交说明
 
-### 1. 交作业
-
-&#x1F353; **[点此提交](https://workspace.jianguoyun.com/inbox/collect/8b71e5254a0f4f36ac95b582ffd7f2db/submit)**
-
-#### 填写说明：
-
----
-
-<img style="width: 350px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/20250521205458.png">
-
----
-
-
-- 【姓名】：
+- **作业名称**：填入 `ex_P01`, `ex_P02`，或 `ex_Team01` 等
+- **姓名**：
   - 个人作业：填入你的真实姓名
   - 小组作业：填入 `小组编号-组长姓名`，如 `G1-张派森`
-- 【版本编号】：首次提交填写 `v1`，若提交修改版，则填写 `v2`、`v3` 等
-- 【推文标题】：填写作业或小组报告的名称 (空格和特殊字符用 `_` 替代)
+- **版本号**：首次提交填写 `v1`，若提交修改版，则填写 `v2`、`v3` 等
+
 
 ### 2. 提交资料要求
 

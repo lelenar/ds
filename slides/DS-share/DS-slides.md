@@ -1,6 +1,6 @@
 ---
 marp: true
-size: 16:9        # 宽版：4:3
+size: 16:9        
 paginate: true  
 #header: '[连享会](https://www.lianxh.cn/news/46917f1076104.html)'
 footer: '[lianxh.cn](https://www.lianxh.cn)&ensp;|&ensp;[Books](https://www.lianxh.cn/Books.html)'

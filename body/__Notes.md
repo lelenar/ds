@@ -1,4 +1,43 @@
 
+## 统计基础
+
+- 搬书匠-5059-Probability and Statistics for Machine Learning-2024-英文版.pdf 
+- Introduction to Statistics
+  - https://onlinestatbook.com/Online_Statistics_Education.pdf
+  - https://onlinestatbook.com/
+  - https://onlinestatbook.com/2/introduction/inferential.html
+- Statistical Rethinking   https://xcelab.net/rm/
+- https://gedeck.github.io/mistat-code-solutions/ModernStatistics/
+
+
+## Bayes
+
+- Peter D. HoffA First Course in
+Bayesian Statistical
+Methods   https://sites.math.rutgers.edu/~zeilberg/EM20/Hoff.pdf
+- Bayesian Data Analysis course - Demos
+  - https://avehtari.github.io/BDA_course_Aalto/demos.html#BDA_Python_demos
+
+
+## 因果推断
+- https://d2cml-ai.github.io/
+  - https://github.com/d2cml-ai/Data-Science-Python/tree/main
+
+## 数据分析概览
+
+![20250919160021](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/20250919160021.png)
+
+> Source: <https://github.com/MoinDalvs/Learn_Feature_Engineering>
+
+- EDA excercise
+  - [Retail-Marketing-Exploratory-Data-Analysis-and-Data-Preprocessing](https://github.com/simrann20/Retail-Marketing-Exploratory-Data-Analysis-and-Data-Preprocessing/blob/main/Python_ProjectNo2.ipynb) 
+
+## 金融理论
+
+- file:///D:/Rbook/dslian-R/refs/Ang_2021_Analyzing_Financial_Data_Using_R.pdf#page=200.09
+- [Yves_Hilpisch]_Python_for_Finance_－_Analyze_Big_Financial_Data.pdf 
+  - 最优化方法等；积分
+
 ## Python 基础
 
 - 参考「2478-Python 101 2nd Edition-2020-英文版.pdf」
